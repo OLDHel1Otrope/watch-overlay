@@ -100,7 +100,7 @@ export default function App() {
       <span
         style={{
           color: "rgba(96, 96, 96, 0.8)",
-          fontSize: "3rem",
+          fontSize: "2rem",
           fontFamily: "'Square-Dot-Matrix', monospace",
           textShadow: "0 0 0px rgba(0, 0, 0, 0.8)",
           userSelect: "none",
@@ -111,7 +111,7 @@ export default function App() {
       <span
         style={{
           color: "rgba(96, 96, 96, 0.8)",
-          fontSize: "3rem",
+          fontSize: "2rem",
           fontFamily: "'Square-Dot-Matrix', monospace",
           textShadow: "0 0 0px rgba(0, 0, 0, 0.8)",
           userSelect: "none",

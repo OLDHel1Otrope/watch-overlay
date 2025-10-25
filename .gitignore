@@ -1,0 +1,45 @@
+# Dependencies
+node_modules/
+.pnpm-store/
+
+# Build output
+dist/
+dist-electron/
+out/
+build/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Environment variables
+.env
+.env.*.local
+
+# Editor folders and settings
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.log
+*.tmp
+*.swp
+*.swo
+
+# TypeScript
+*.tsbuildinfo
+
+# OS-specific
+ehthumbs.db
+desktop.ini
+
+# Electron specific
+release/
+*.asar
+
+# Vite cache
+.vite/
